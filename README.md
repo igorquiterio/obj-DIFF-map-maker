@@ -1,5 +1,5 @@
 # obj-DIFF-map-maker
-Serviço para identificar alterações feitas dentro de um objeto não importando o tamanho de suas ramificações para criação de LOG em AngularJS
+Serviço de DIFF para AngularJS seguindo as mesmas ideias do [deep-diff-mapper](https://www.npmjs.com/package/deep-diff-mapper), porem com foco em informações para LOG
 
 ## bibliotecas
 [underscoreJS](https://underscorejs.org/)
